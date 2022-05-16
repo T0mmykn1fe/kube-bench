@@ -28,6 +28,6 @@ require (
 	github.com/spf13/pflag v0.0.0-20171106142849-4c012f6dcd95 // indirect
 	github.com/spf13/viper v1.0.0
 	github.com/stretchr/testify v1.3.0
-	gopkg.in/yaml.v2 v2.2.2
+	gopkg.in/yaml.v2 v2.2.8
 	k8s.io/client-go v10.0.0+incompatible
 )
